@@ -1,22 +1,18 @@
 ![BannerGithub](https://github.com/user-attachments/assets/7e69d8de-9aa3-4571-876a-fb1952d91a21)
 
-<h1 align="center">Hola !!!, Hi !!!, Hallo !!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Yo Soy Jissy Kakin Merlano </h1>
+<h1 align="center">Hola !!!, Hi !!!, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Yo Soy Rowinson Jose Garcia Merlano </h1>
 
-## Sobre mí / About me / Über mich:
+## Sobre mí / About me:
 - 🔭 Actualmente estoy trabajando como Freelance ( I’m currently working as freelance )
 - 🌱 Actualmente estoy aprendiendo Backend con framework Spring [Allura Latam](https://app.aluracursos.com/) 
-- 🌱 Estoy Estudiando Ingles B1 y Aleman B2 
-- 🎓 Estudios de Ingeniería de Sistemas en [Tecnar](https://www.unitecnar.edu.co/) en Convenio con la [CUC](https://www.cuc.edu.co/)
-- 🎓 Especialización en Automatización y control de procesos industriales en [UTB](https://www.utb.edu.co/)
-- 🎓 Especialización tecnologica en Administracion y control BD [SENA](https://www.sena.edu.co/) 
-- 🎓 Cursos En linea de Back-end y Front-end [Udemy](https://www.udemy.com/)
-- 🎓 Cursos de Desarrollo Web en el programa Misión TIC del MinTIc y la Universidad [UIS](https://uis.edu.co/es/)
+- 🌱 Estoy Estudiando Ingles
+- 🎓 estudio desarrollo de software 
 - 🏡 Actualmente vivo en la ciudad de Cartagena - Colombia.
 - ⚡ **Otras actividades** : 👯
 
-## Contáctame / Contact me /  Kontaktieren mich☕ :
+## Contáctame / Contact me :
 <br>
-<a target="_blank" href="mailto:sicaji22@gmail.com"><img src="https://github.com/user-attachments/assets/db17008a-0d4f-4cb8-8a39-096e3af70e2e"  width="32px" height="32px" alt="LogoGmail"></img></a>
+<a target="_blank" href="Rowisong@gmail.com"><img src="https://github.com/user-attachments/assets/db17008a-0d4f-4cb8-8a39-096e3af70e2e"  width="32px" height="32px" alt="LogoGmail"></img></a>
 &emsp;
 <a target="_blank" href="https://www.linkedin.com/in/ing-jissy-merlano/" ><img src="https://github.com/user-attachments/assets/e2069248-a102-4833-81bb-67a5b5344cae" width="33px" height="33px" alt="LogoLinkedin"></img></a>
 
