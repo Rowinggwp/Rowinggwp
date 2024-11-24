@@ -15,7 +15,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/robinson-garcia/"><img src="https://github.com/user-attachments/assets/e2069248-a102-4833-81bb-67a5b5344cae" width="33px" height="33px" alt="LogoLinkedin"></img></a>
 
 
-## 🛠 &nbsp;Mis Conocimientos / My knowledge / Meine Kenntnisse
+## 🛠 &nbsp;Mis Conocimientos / My knowledge
 Tecnologías y herramientas  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&labelColor=black)&nbsp;  
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&labelColor=black)&nbsp;  
