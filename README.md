@@ -12,9 +12,10 @@
 
 ## Contáctame / Contact me :
 <br>
-<a target="_blank" href="Rowisong@gmail.com"><img src="https://github.com/user-attachments/assets/db17008a-0d4f-4cb8-8a39-096e3af70e2e"  width="32px" height="32px" alt="LogoGmail"></img></a>
+<a target="_blank" href="mailto:Rowisong@gmail.com"><img src="https://github.com/user-attachments/assets/db17008a-0d4f-4cb8-8a39-096e3af70e2e" width="32px" height="32px" alt="LogoGmail"></img></a>
 &emsp;
-<a target="_blank" href="https://www.linkedin.com/in/ing-jissy-merlano/" ><img src="https://github.com/user-attachments/assets/e2069248-a102-4833-81bb-67a5b5344cae" width="33px" height="33px" alt="LogoLinkedin"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/robinson-garcia/"><img src="https://github.com/user-attachments/assets/e2069248-a102-4833-81bb-67a5b5344cae" width="33px" height="33px" alt="LogoLinkedin"></img></a>
+
 
 ## 🛠 &nbsp;Mis Conocimientos / My knowledge / Meine Kenntnisse
 Tecnologías y herramientas  
