@@ -3,8 +3,6 @@
 <h1 align="center">Hola !!!, Hi !!!, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br> Yo Soy Rowinson Jose Garcia Merlano </h1>
 
 ## Sobre mí / About me:
-- 🔭 Actualmente estoy trabajando como Freelance ( I’m currently working as freelance )
-- 🌱 Actualmente estoy aprendiendo Backend con framework Spring [Allura Latam](https://app.aluracursos.com/) 
 - 🌱 Estoy Estudiando Ingles
 - 🎓 estudio desarrollo de software 
 - 🏡 Actualmente vivo en la ciudad de Cartagena - Colombia.
