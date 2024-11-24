@@ -17,7 +17,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/ing-jissy-merlano/" ><img src="https://github.com/user-attachments/assets/e2069248-a102-4833-81bb-67a5b5344cae" width="33px" height="33px" alt="LogoLinkedin"></img></a>
 
 ## 🛠 &nbsp;Mis Conocimientos / My knowledge / Meine Kenntnisse
-!### Tecnologías y herramientas  
+Tecnologías y herramientas  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&labelColor=black)&nbsp;  
 ![Node.js](https://img.shields.io/badge/Node.js-%235FA04E?style=flat-square&logo=nodedotjs&labelColor=black)&nbsp;  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&labelColor=black)&nbsp;  
